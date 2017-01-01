@@ -5,6 +5,6 @@ package artifactory.test;
  */
 public class Multi1 {
     public static void main(String[] args) {
-        System.out.println("Hello Nick Gu");
+        System.out.println("Hello Nick Gul");
     }
 }

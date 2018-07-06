@@ -10,11 +10,5 @@ public class Multi1 {
         System.out.println("Feature B Branch");
         System.out.println("Feature C Branch");
         System.out.println("Webhook");
-        System.out.println("Polling");
-        System.out.println("Polling TWO");
-        System.out.println("Polling Three);
-        System.out.println("Polling Four");
-        System.out.println("Polling Five");
-        System.out.println("Polling SIX");
 }
 }

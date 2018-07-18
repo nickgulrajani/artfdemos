@@ -11,5 +11,6 @@ public class Multi1 {
         System.out.println("Feature C Branch");
         System.out.println("Webhook");
         System.out.println("Added a data file");
+        System.out.println(" Trigger test");
 }
 }

@@ -12,5 +12,6 @@ public class Multi1 {
         System.out.println("Webhook");
         System.out.println("Added a data file");
         System.out.println(" Trigger test");
+        System.out.println(" Hadoop File Xfer");
 }
 }
